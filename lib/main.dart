@@ -9,7 +9,7 @@ class MyApp extends StatelessWidget {
 
   //  final wordPair = WordPair.random();
     return MaterialApp(
-      title: 'Statment Management System',
+      //title: 'Statment Management System',
       home: Scaffold(
 
         body: Center(
@@ -19,7 +19,10 @@ class MyApp extends StatelessWidget {
       ),
     );
   }
-
+}
+print1() {
+  var f = (String s) => print1();
+  f("hello world");
 }
 
 // hello test
