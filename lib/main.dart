@@ -21,7 +21,7 @@ class MyApp extends StatelessWidget {
   }
 }
 print1() {
-  var f = (String s) => print();
+  var f = (String s) => print1();
   f("hello world");
 }
 class RandomWordsState extends State<RandomWords> {
