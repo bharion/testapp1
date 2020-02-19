@@ -20,7 +20,6 @@ class MyApp extends StatelessWidget {
     );
   }
 }
-print() {
 print1() {
   var f = (String s) => print();
   f("hello world");
