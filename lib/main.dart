@@ -21,6 +21,10 @@ class MyApp extends StatelessWidget {
   }
 
 }
+print() {
+  var f = (String s) => print();
+  f("hello world");
+}
 class RandomWordsState extends State<RandomWords> {
   final _suggestions = <WordPair>[];
   final _biggerFont = const TextStyle(fontSize: 18.0);
