@@ -9,7 +9,7 @@ class MyApp extends StatelessWidget {
 
   //  final wordPair = WordPair.random();
     return MaterialApp(
-      title: 'Statment zia khan System. kheraan naal ja ty kheraan nal aa ... bohoon ubaala hain ta jahaz cha ghen',
+      title: 'Statment zia',
 
       home: Scaffold(
 
