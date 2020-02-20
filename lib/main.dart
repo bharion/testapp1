@@ -10,10 +10,14 @@ class MyApp extends StatelessWidget {
   //  final wordPair = WordPair.random();
     return MaterialApp(
 <<<<<<< HEAD
+<<<<<<< HEAD
       title: 'Statment df System',
 =======
       title: 'Statment shah System',
 >>>>>>> comit3
+=======
+      title: 'Statment Shah g System',
+>>>>>>> commit4
       home: Scaffold(
 
         body: Center(
